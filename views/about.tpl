@@ -1,6 +1,6 @@
 <!DOCKTYPE html>
 <html>
-<body>
+<head>
     <title>About Page</title>
     <link rel="stylesheet" href="/static/styles.css">
 </head>
