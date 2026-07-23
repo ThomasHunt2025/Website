@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Contact Page</title>
-    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="/static/styles.css">
 </head>
 <body>
     <nav>

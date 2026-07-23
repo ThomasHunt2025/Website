@@ -1,22 +1,19 @@
 from bottle import run, route, template, view, static_file
 
 @route('/')
-@view('home')
-def home():
-    return {} 
+def h():
+    return template('home.tpl')
 
 @route('/about')
-def about():
-    return template('about')
+def ab():
+    return template('about.tpl')
 
 @route('/contact')
-@view('/contact')
-def contact():
-    return {}
+def c():
+    return template('contact.tpl')
 
 @route('/static/<filename>')
 def server_static(filename):
     return static_file(filename, root='./static')
 
-if __name__ =="__main__":
-    run(host='localhost', port=8080, debug=True, reloader=True)
+run(host='localhost', port=8080, debug=True, reloader=True)
