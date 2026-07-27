@@ -11,10 +11,44 @@ nav a {
     padding 10px;
 }
 
-nav a:hover {
-    text-decoration: underline;
+ nav {
+  float: left;
+  width: 30%;
+  height: 300px; /* only for demonstration, should be removed */
+  background: #ccc;
+  padding: 20px;
 }
 
 h1 {
-    color: #444
+    color: #f7f2f2
+}
+
+h2 {
+    color: #f7f2f2
+}
+
+p {
+    color: #f7f2f2
+}
+
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #666;
+  height: 300px; /* only for demonstration, should be removed */
+}
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;
 }
