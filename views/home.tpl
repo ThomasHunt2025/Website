@@ -10,18 +10,29 @@
     <h1>The Home Page</h1>
 </header> 
 
-<section> 
-    <nav>
-        <a href="/">Home</a>
-        <a href="/about">About</a>
-        <a href="/contact">Contact</a> 
-    </nav> 
+<nav>
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/contact">Contact</a> 
+</nav> 
+
+<div class="container">
+
+  <div class="left">
+    <section>
+      <h2>Section</h2>
+    </section>
 
     <article>
-      <h1>About me</h1>
-      <p>My favourite game is Call of Duty</p>
+      <h2>Article</h2>
     </article>
-</section>
+   </div>
+
+    <aside>
+      <h2>Aside</h2>
+    </aside>
+
+</div>
 
 </body>
 </html> 
