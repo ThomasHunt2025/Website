@@ -29,7 +29,7 @@
    </div>
 
     <aside>
-      <h2>Aside</h2>
+      <img src="Student-Profile.jpg" width="100%">
     </aside>
 
 </div>
