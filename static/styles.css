@@ -55,7 +55,7 @@ section {
 }
 
 article {
-    height: 180px;
+    height: 460px;
 }
 
 aside {
@@ -76,4 +76,5 @@ footer {
 
 img {
    padding: 20px; 
+
 }

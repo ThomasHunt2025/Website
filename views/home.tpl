@@ -20,7 +20,8 @@
 
   <div class="left">
     <section>
-      <h2>Section</h2>
+      <h2>About Me</h2>
+      <p></p>
     </section>
 
     <article>
@@ -29,10 +30,10 @@
    </div>
 
     <aside>
-      <img src="Student-Profile.jpg" width="100%">
+      <img src="/static/Student-Profile.jpg" alt="Student Profile" width="100%">
     </aside>
 
-</div>
+
 
 </body>
 </html> 
