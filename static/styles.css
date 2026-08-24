@@ -42,14 +42,15 @@ nav a {
 
 section,
 article,
-aside {
+aside,
+footer  {
     background: #ACD6E8;
     color: white;
     padding: 20px;
 }
 
 section {
-    height: 180px;
+    height: 220px;
     margin-bottom: 10px;
 }
 
@@ -62,7 +63,7 @@ aside {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 650px;
+    height: 690px;
 }
 
 img {
