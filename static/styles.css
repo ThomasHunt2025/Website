@@ -36,14 +36,17 @@ nav a {
     margin-bottom: 10px;
 }
 
+.container-fluid {
+    text-align: center;
+}
+
 .left {
     width: 70%;
 }
 
 section,
 article,
-aside,
-footer  {
+aside {
     background: #ACD6E8;
     color: white;
     padding: 20px;
@@ -52,10 +55,12 @@ footer  {
 section {
     height: 220px;
     margin-bottom: 10px;
+
 }
 
 article {
     height: 460px;
+    border: 10%;
 }
 
 aside {
@@ -64,9 +69,20 @@ aside {
     justify-content: center;
     align-items: center;
     height: 690px;
+    border-radius: 10%;
+}
+
+footer {
+    background: #ACD6E8;
+    text-align: center;
+    color: white;
+    padding: 2px;
 }
 
 img {
    padding: 20px; 
+   border-radius: 10%;
 
 }
+
+

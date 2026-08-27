@@ -25,23 +25,25 @@
     </section>
 
     <article>
-      <h2>Article</h2>
+      <h2>More ABout Me</h2>
+      <p></p>
     </article>
    </div>
 
     <aside>
       <img src="/static/Student-Profile.jpg" alt="Student Profile" width="100%">
     </aside>
-
+  </div>
+  
+  <div class="container-fluid">
+  <section>
+    <h2></h2>
+  </section> 
   </div>
 
     <footer>
-      <h2>Footer</h2>
-    </footer>
-
+      <h1>The Footer</h1>
+    <footer>
    
-
-
-
 </body>
 </html> 
