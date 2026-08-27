@@ -35,7 +35,10 @@
 
     <article>
       <h2>My Time at Sacred Heart College</h2>
-      <p></p>
+      <p>I went to Sacred Heart at Year 9. During that time, I lived in the hostel. I met a few people 
+      that were nice to me but some of them were pretty weird and can sometimes say stuff that made me uncomfortable. 
+      I was pretty good at Math at that time but not so much on Science. I can pretty much say that Science was my worse
+      subject at that time.</p>
     </article>
    </div>
 
