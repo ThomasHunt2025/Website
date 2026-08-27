@@ -69,20 +69,20 @@ aside {
     justify-content: center;
     align-items: center;
     height: 690px;
-    border-radius: 10%;
 }
 
 footer {
     background: #ACD6E8;
     text-align: center;
     color: white;
-    padding: 2px;
+    padding: 4px;
 }
 
 img {
    padding: 20px; 
-   border-radius: 10%;
 
 }
+
+
 
 
