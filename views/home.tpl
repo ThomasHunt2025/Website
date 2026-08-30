@@ -9,7 +9,7 @@
 <body>
 
 <header>
-    <h1>The Home Page</h1>
+    <h1>Welcome to my Website</h1>
 </header>
 
 <nav>
@@ -36,7 +36,9 @@
             like Minecraft, Fortnite and Roblox pretty much lower my stress level. Although, when
             it comes to no internet situations, I play some nostalgic offline mobile games like
             Subway Surfers and Plants vs Zombies. I also sometimes like to draw, specifically drawing
-            stickman poses where I mostly draw combat poses and its pretty cool. 
+            stickman poses where I mostly draw combat poses and its pretty cool to be honest. Also I 
+            sometimes think about if I could become a software developer as well in the future to keep 
+            my designing behaviour, but its not my main priority for now. 
         </p>
     </section>
 
