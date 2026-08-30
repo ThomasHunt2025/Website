@@ -107,7 +107,7 @@
 <div class="container rowing-container">
 
 <div class="rowing-image">
-    <img src="/static/RowingClip3.jpeg" alt="Rowing Clip 1">
+    <img src="/static/RowingClip2.jpeg" alt="Rowing Clip 1">
 </div>
 
 <div class="rowing-image">
